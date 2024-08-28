@@ -4,5 +4,4 @@ Simple Login page using Python
 Basic login Page in python using tkinter library
 - Project takes Username and Password as input.
 - while an user try to login page will confirm if the Username and Password matches, if the entries matches the user will be logged in.
-
-If the login info is not correct a message showing error will be printed. 
+- If the login info is not correct a message showing error will be printed. 
